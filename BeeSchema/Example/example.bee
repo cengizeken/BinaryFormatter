@@ -1,0 +1,9 @@
+order bigendian;
+schema {
+	a_byte			: byte;
+	a_short			: short;
+	an_int			: int;
+	a_long			: long;
+	a_float,
+	another_float	: float;
+}
